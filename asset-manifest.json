@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.c3884c22.css",
-    "main.js": "/build/static/js/main.e7c61028.js",
-    "static/js/787.fae9f242.chunk.js": "/build/static/js/787.fae9f242.chunk.js",
-    "index.html": "/build/index.html",
-    "main.c3884c22.css.map": "/build/static/css/main.c3884c22.css.map",
-    "main.e7c61028.js.map": "/build/static/js/main.e7c61028.js.map",
-    "787.fae9f242.chunk.js.map": "/build/static/js/787.fae9f242.chunk.js.map"
+    "main.css": "/rss-agent/static/css/main.c3884c22.css",
+    "main.js": "/rss-agent/static/js/main.be27a116.js",
+    "static/js/787.fae9f242.chunk.js": "/rss-agent/static/js/787.fae9f242.chunk.js",
+    "index.html": "/rss-agent/index.html",
+    "main.c3884c22.css.map": "/rss-agent/static/css/main.c3884c22.css.map",
+    "main.be27a116.js.map": "/rss-agent/static/js/main.be27a116.js.map",
+    "787.fae9f242.chunk.js.map": "/rss-agent/static/js/787.fae9f242.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3884c22.css",
-    "static/js/main.e7c61028.js"
+    "static/js/main.be27a116.js"
   ]
 }
